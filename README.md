@@ -1,6 +1,8 @@
 ### Thank you for visiting my profile.
 
-![alt text](https://github.com/AlexLastoriaButler/AlexLastoriaButler/blob/main/HeaderWords.png  "Page header")
+[comment]: <> (https://github.com/AlexLastoriaButler/AlexLastoriaButler/blob/main/HeaderWords.png  "Page header")
+<a href="https://github.com/AlexLastoriaButler/AlexLastoriaButler/blob/main/movingheader.svg"><img src="movingheader.svg" width="800" height="400" alt="Click to see the source"></a>
+
 
 #### I’m currently continuing to learn R, Python, JavaScript.
 
