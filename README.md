@@ -1,7 +1,6 @@
-### Thank you for visiting my profile.
-
 [comment]: <> (https://github.com/AlexLastoriaButler/AlexLastoriaButler/blob/main/HeaderWords.png  "Page header")
-<a href="https://github.com/AlexLastoriaButler/AlexLastoriaButler/blob/main/movingheader.svg"><img src="movingheader.svg" width="800" height="400" alt="Click to see the source"></a>
+<p align="center"><a href="https://github.com/AlexLastoriaButler/AlexLastoriaButler/blob/main/movingheader.svg"><img src="movingheader.svg" width="800" height="400" alt="Click to see the source"></a></p>
+<h1 align="center">Thank you for visiting my profile.</h>
 
 
 #### I’m currently continuing to learn R, Python, JavaScript.
